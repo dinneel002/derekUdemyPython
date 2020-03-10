@@ -1,0 +1,16 @@
+import math
+
+print('ceil(4.4) =', math.ceil(4.4))
+print(math.floor(5.7))
+print(math.fabs(-4))
+print(math.factorial(5))
+print(math.fmod(5,7))
+print(math.trunc(4.2))
+print(math.pow(2,2))
+print(math.sqrt(4))
+print(math.e)
+print(math.pi)
+print(math.log10(1000))
+print(math.sin(0))
+print(math.degrees(1.5788))
+print(math.radius(90))
